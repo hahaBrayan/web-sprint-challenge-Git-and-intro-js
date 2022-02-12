@@ -355,7 +355,7 @@ function artistByCountry(arr, nationality) {
   return newArr;
 }
 
-
+//Hi :)
 
 /* ***** END OF TASKS ***** */
 
